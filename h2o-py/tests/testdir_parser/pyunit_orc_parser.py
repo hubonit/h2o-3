@@ -65,7 +65,7 @@ def orc_parser_test():
         if (fIndex == 22):     # problem with BufferedString retrieval for binary, wait for Tomas
             continue
 
-          if (fIndex == 17):   # problem with bigint retrieval, wait for Tomas
+        if (fIndex == 17):   # problem with bigint retrieval, wait for Tomas
             continue
 
         randNum = randint(0,9)
